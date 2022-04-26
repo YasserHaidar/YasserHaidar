@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h4> ⚡ I am a full Time software engineer specialized in designing and programming software systems using Flutter. Interested in leading programming teams in designing creative and advanced digital solutions.</h4>
 
-<!--<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="yasser" /></p>-->
+<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="yasser" /></p>
 
 
 ###  🔭 TOP Software Projects:
