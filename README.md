@@ -18,12 +18,12 @@ Here are some ideas to get you started:
     alt="yasser" /> 
   </p>
 
-<h4> I am a full Time software engineer specialized in designing and programming software systems using Flutter. Interested in leading programming teams in designing creative and advanced digital solutions.</h4>
+<h4> ⚡ I am a full Time software engineer specialized in designing and programming software systems using Flutter. Interested in leading programming teams in designing creative and advanced digital solutions.</h4>
 
 <!--<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="yasser" /></p>-->
 
 
-###  TOP Software Projects:
+###  🔭 TOP Software Projects:
 
 <h3>1. Online Appointment System:</h3>
  <img src="nssf.jpg">
@@ -100,7 +100,7 @@ In my Master thesis, I have introduced an advanced technique for android malware
 
 <br>
 
-### Reach Me on:
+### 📫 Reach Me on:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yasser-haidar)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hexapi.tech/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HexaPiTech)
