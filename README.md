@@ -36,6 +36,10 @@ Flutter,PHP,Cloud Firestore, Cloud Messaging, Firebase Authentication, Cloud Aut
 <br>
 Read More in this <a href="https://hexapi.tech/booking.html" target="_blank">Brochure</a>.
 <br>
+<a href="https://play.google.com/store/apps/details?hl=en_US&id=com.techno.nssf" target="_blank">Play Store User Application</a>
+
+<a href="https://apps.apple.com/us/app/id1509406107" target="_blank">App Store User Application</a>
+<br>
  <br>
 <h3>2. Smart School Platform:</h3>
  <img src="school.jpg" >
@@ -46,6 +50,8 @@ Technologies Used:
 Flutter for Mobile and Web,PHP,Javascript, C# for WebServices,Cloud Firestore, Cloud Messaging, Agora Live Video SDK, Cloud Automated Functions,Google Cloud Console,...
 <br>
 Read More in this <a href="https://hexapi.tech/school.html" target="_blank">Brochure</a>.
+<br>
+<a href="https://play.google.com/store/apps/details?hl=en_US&id=com.techno.eschool" target="_blank">Play Store User Application</a>
 <br> <br>
 
 <h3>3. Delivery Management & Tracking System:</h3>
@@ -56,6 +62,10 @@ Technologies Used:
 PHP,Javascript,MySQL Database,Flutter for Mobile,Cloud Messaging,..
 <br> <br>
 Read More in this <a href="https://hexapi.tech/HexaPi%20Delivery%20Brochure.pdf" target="_blank">Brochure</a>.
+<br>
+<a href="https://hexapi.tech/delivery" target="_blank">Admin Dashboard (admin/admin)</a>
+<a href="https://play.google.com/store/apps/details?id=com.hexapi.delivery_driver" target="_blank">Play Store Driver Application(rider4/rider4)</a>
+
 <br> <br>
 <h3>4. Blood Donation Platform (Working on):</h3>
  <img src="blood.png" >
