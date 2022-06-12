@@ -18,8 +18,9 @@ Here are some ideas to get you started:
     alt="yasser" /> 
   </p>
 
-<h4> ⚡ I am a full Time software engineer specialized in designing and programming software systems using Flutter. Interested in leading programming teams in designing creative and advanced digital solutions.</h4>
+<h4> ⚡ I am a full Time software engineer specialized in designing and programming software systems using Flutter and PHP. Interested in leading programming teams in designing creative and advanced digital solutions.</h4>
 
+<h4>Have strong passion for applying latest cybersecurity tools and techniques on software projects and systems.</h4>
 <p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="yasser" /></p>
 
 
@@ -30,6 +31,9 @@ Here are some ideas to get you started:
 HexaPi Booking is a smart solution for the problem of long queues and time wasting. Add this platform to your business and organize the reservation of
 appointments. The platform was designed in 2019 was adopted by NSSF(Tyre Branch).
 <br>
+Technologies Used:
+Flutter,PHP,Cloud Firestore, Cloud Messaging, Firebase Authentication, Cloud Automated Functions,Google Cloud Console,AppStore Configuration, Analytics and Crashlytics, ...
+<br>
 Read More in this <a href="https://hexapi.tech/booking.html" target="_blank">Brochure</a>.
 <br>
  <br>
@@ -37,6 +41,9 @@ Read More in this <a href="https://hexapi.tech/booking.html" target="_blank">Bro
  <img src="school.jpg" >
 Smart School is an interactive friendly platform for facilitating the online learning process for all students who have faced difficulties in following up
 their classes remotely. It was designed and developed in 2020 for my startup comapany <a href="https://hexapi.tech" target="_blank" >HexaPi Tech</a>.
+<br>
+Technologies Used:
+Flutter,PHP,Cloud Firestore, Cloud Messaging, Firebase Authentication, Cloud Automated Functions,Google Cloud Console,AppStore Configuration, Analytics and Crashlytics, ...
 <br>
 Read More in this <a href="https://hexapi.tech/school.html" target="_blank">Brochure</a>.
 <br> <br>
@@ -105,3 +112,4 @@ In my Master thesis, I have introduced an advanced technique for android malware
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hexapi.tech/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HexaPiTech)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hexa.pi/)
+](https://github.com/YasserHaidar/YasserHaidar/blob/main/README.md)](https://github.com/YasserHaidar/YasserHaidar/blob/main/README.md)
