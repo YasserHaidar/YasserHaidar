@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h3>1. Online Appointment System:</h3>
  <img src="nssf.jpg">
 HexaPi Booking is a smart solution for the problem of long queues and time wasting. Add this platform to your business and organize the reservation of
-appointments. The platform was designed in 2019 was adopted by NSSF(Tyre Branch).
+appointments. The platform was designed in 2019 and was adopted officially by National Social Security Fund Office(Tyre Branch).
 <br>
 Technologies Used:
 Flutter,PHP,Cloud Firestore, Cloud Messaging, Firebase Authentication, Cloud Automated Functions,Google Cloud Console,AppStore Configuration, Analytics and Crashlytics, ...
@@ -43,7 +43,7 @@ Smart School is an interactive friendly platform for facilitating the online lea
 their classes remotely. It was designed and developed in 2020 for my startup comapany <a href="https://hexapi.tech" target="_blank" >HexaPi Tech</a>.
 <br>
 Technologies Used:
-Flutter,PHP,Cloud Firestore, Cloud Messaging, Firebase Authentication, Cloud Automated Functions,Google Cloud Console,AppStore Configuration, Analytics and Crashlytics, ...
+Flutter for Mobile and Web,PHP,Javascript, C# for WebServices,Cloud Firestore, Cloud Messaging, Agora Live Video SDK, Cloud Automated Functions,Google Cloud Console,...
 <br>
 Read More in this <a href="https://hexapi.tech/school.html" target="_blank">Brochure</a>.
 <br> <br>
@@ -51,11 +51,18 @@ Read More in this <a href="https://hexapi.tech/school.html" target="_blank">Broc
 <h3>3. Delivery Management & Tracking System:</h3>
  <img src="delivery.jpg" >
 HexaPi Delivery is a management system for Delivery companies to help them organize their seller's orders, their accounting settlements and their drivers' tracking process. 
+<br>
+Technologies Used:
+PHP,Javascript,MySQL Database,Flutter for Mobile,Cloud Messaging,..
 <br> <br>
 Read More in this <a href="https://hexapi.tech/HexaPi%20Delivery%20Brochure.pdf" target="_blank">Brochure</a>.
 <br> <br>
 <h3>4. Blood Donation Platform (Working on):</h3>
  <img src="blood.png" >
+ This mobile application is planned to enhance the process of requesting blood plaquets for the patients and make it as fast as possible by implementing personalized and selective push notifications and messages for the target donors. I am aiming with some investors for promoting this app for a large portion of Lebanese people.
+<br>Technologies Used:
+Flutter,PHP,Javascript,MySQL Database,Firebase Authentication,Cloud Messaging,Google Maps Integration,...
+ <br>
  Stay Tuned for this free and great platform...
  
 ### ML/DL Thesis Research:
@@ -63,6 +70,9 @@ Read More in this <a href="https://hexapi.tech/HexaPi%20Delivery%20Brochure.pdf"
 In recent years, malware development for Android mobiles has increased dramatically and Google is trying daily to limit or stop this threat on its operating system. However, not only Google is developing new techniques for detecting malicious applications, but also, malware developers are updating their techniques regularly in order to hide their malware from detection systems.
 
 In my Master thesis, I have introduced an advanced technique for android malware detection using machine learning and deep learning techniques. A modern and big dataset is constructed and four different models are tested on this dataset and other applications. The best performance was recorded by CNN model where it reaches 99.0% on testing set and 80% on 2021 malware dataset and with short detection time.
+
+You can find the Online Hosted Model on:
+<a href="https://andromalware-dbf.herokuapp.com/" target="_blank">Deep Belief Network</a>
 
 ### Languages & Frameworks:
 
@@ -110,6 +120,4 @@ In my Master thesis, I have introduced an advanced technique for android malware
 ### 📫 Reach Me on:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yasser-haidar)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hexapi.tech/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HexaPiTech)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hexa.pi/)
-](https://github.com/YasserHaidar/YasserHaidar/blob/main/README.md)](https://github.com/YasserHaidar/YasserHaidar/blob/main/README.md)
+
