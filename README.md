@@ -81,7 +81,7 @@ In recent years, malware development for Android mobiles has increased dramatica
 
 In my Master thesis, I have introduced an advanced technique for android malware detection using machine learning and deep learning techniques. A modern and big dataset is constructed and four different models are tested on this dataset and other applications. The best performance was recorded by CNN model where it reaches 99.0% on testing set and 80% on 2021 malware dataset and with short detection time.
 
-You can find the Online Hosted Model on:
+You can find the Online Hosted Model on: (Heruko Hosting has stopped)
 <a href="https://andromalware-dbf.herokuapp.com/" target="_blank">Deep Belief Network</a>
 
 ### Languages & Frameworks:
@@ -129,5 +129,3 @@ You can find the Online Hosted Model on:
 
 ### 📫 Reach Me on:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yasser-haidar)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hexapi.tech/)
-
